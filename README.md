@@ -7,12 +7,16 @@
 
 # 项目启动
 1. 克隆项目并安装环境
+```
 git clone https://github.com/AFeng521web/todo-list.git
 cd todo-list
 npm install
+```
 
 2. 直接运行
+```
 npm start
+```
 
 **** 
 
