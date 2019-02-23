@@ -1,4 +1,4 @@
-# todoList(待办事项列表及任务管理器)
+# todoList(待办事项列表及任务管理器)
 
 # 主要技术栈
 1. react
@@ -7,8 +7,8 @@
 
 # 项目启动
 1. 克隆项目并安装环境
-git clone https://github.com/AFeng521web/todolist.git
-cd todolist
+git clone https://github.com/AFeng521web/todo-list.git
+cd todo-list
 npm install
 
 2. 直接运行
